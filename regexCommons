@@ -1,3 +1,0 @@
-
-regexDeleteAfterChar => [:].*  
-  *replace with nothing.

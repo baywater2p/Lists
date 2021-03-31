@@ -1,0 +1,4 @@
+
+regexDeleteAfterChar(':')=>  [:].*  => Replace [null]. 
+Regex SelectPreviousLine() =>  
+
