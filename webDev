@@ -10,6 +10,7 @@ https://www.calligraphr.com/en/
 https://tinypng.com/
 https://notepad-plus-plus.org/
 https://geocode.localfocus.nl/
+https://anvaka.github.io/city-roads/
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
@@ -17,7 +18,7 @@ point nameservers at google to
 your host ip address or a nameserver ip address.
  use macros & multi-cursor for long lists.
  FTP file using app or program.
- upload index.php file. 
+ upload index.php or index.html file. 
 
 Another option is using github pages to host 
 a static page, by selecting an option 
