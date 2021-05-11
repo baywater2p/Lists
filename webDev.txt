@@ -13,13 +13,14 @@ https://geocode.localfocus.nl/
 https://anvaka.github.io/city-roads/
 https://www.pngtosvg.com/
 https://removal.ai/
+https://addons.mozilla.org/en-GB/firefox/addon/colorzilla/
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
 point nameservers at google to your servers ip address / nameservers etc.
 For example, angryhosting.com offers an Apache/nginx server for $1 a month. 
 You can host as many websites as you want, and don't forget to get the https key.  
-Use macros, regex & multi-cursor for long lists.
+Use notepad++ with the macros, regex & multi-cursor for long lists.
  FTP files to your server using an FTP app or program.
  upload index.php or index.html file. 
 
