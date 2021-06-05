@@ -30,3 +30,17 @@ Use notepad++ with the macros, regex & multi-cursor for long lists.
 Another option is using github pages to host 
 a static page, by selecting an option 
 in that repositories settings.
+
+templates i start with:  
+objects, methods, & the [call](https://www.w3schools.com/js/js_function_call.asp) function  
+canvas & images [getImageData](https://www.w3schools.com/tags/canvas_getimagedata.asp) function  
+
+
+
+
+
+
+
+
+
+
