@@ -22,6 +22,10 @@ https://www.kenney.nl/tools/assetforge
 https://www.kenney.nl/tools/kenshape  
 https://www.color-hex.com/color-palettes/
 https://codecanyon.net/popular_item/by_category?category=php-scripts
+https://www.cleancss.com/css-beautify/
+
+
+
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
