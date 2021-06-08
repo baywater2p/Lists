@@ -40,11 +40,16 @@ Another option is using github pages to host
 a static page, by selecting an option 
 in that repositories settings.
 
-templates i start with:  
+templates  
+------------  
 objects, methods, & the [call](https://www.w3schools.com/js/js_function_call.asp) function  
 canvas & images [getImageData](https://www.w3schools.com/tags/canvas_getimagedata.asp) function  
 
 
+ 
+AssetForge  
+-------------  
+to add collection to select menu Create a new folder in the'ProgramFiles/AssetForge/Collections/' directory called 'myCollection'. Place all your OBJ (and MTL files) in the folder. The objects should appear in Asset Forge upon restarting.
 
 
 
