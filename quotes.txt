@@ -2,3 +2,4 @@
 "There are those who live day to day, who can't be bothered by anything... -Unknown  
 "your pinion is just another tooth hitting me".  -machine shop guy. 
 "Don't keep bad inventory"  - Joel Osteen. 
+"Why keep trying to cram an expressive syntax into the straitjacket of the 95 glyphs of ASCII when Unicode has been the new black for most of the past decade?" -PHK
