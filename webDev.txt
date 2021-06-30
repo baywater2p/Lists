@@ -53,10 +53,6 @@ canvas & images [getImageData](https://www.w3schools.com/tags/canvas_getimagedat
 
 
  
- js
- -----
- [the Immediately-Invoked Function Expression](https://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)  vs uneccessary global namespace variables.
- 
  
 AssetForge  
 -------------  
