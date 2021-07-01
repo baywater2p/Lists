@@ -33,6 +33,7 @@ https://www.base64encode.net/base64-image-encoder
 https://godotengine.org/
 https://annotate.pixlab.io/
 https://teachablemachine.withgoogle.com/train
+https://javascript.info/object
 
 
 To build a website, buy a dot com domain name
