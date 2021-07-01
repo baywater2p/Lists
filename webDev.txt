@@ -36,7 +36,7 @@ https://teachablemachine.withgoogle.com/train
 https://javascript.info/object
 https://www.w3schools.com/js/js_best_practices.asp
 https://www.codecademy.com/learn/game-dev-learn-javascript-objects/modules/game-dev-learn-javascript-objects/cheatsheet
-
+https://www.freecodecamp.org/news/javascript-create-object-how-to-define-objects-in-js/
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
