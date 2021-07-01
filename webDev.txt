@@ -34,6 +34,7 @@ https://godotengine.org/
 https://annotate.pixlab.io/
 https://teachablemachine.withgoogle.com/train
 https://javascript.info/object
+https://www.w3schools.com/js/js_best_practices.asp
 
 
 To build a website, buy a dot com domain name
