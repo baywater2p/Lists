@@ -39,6 +39,7 @@ https://www.codecademy.com/learn/game-dev-learn-javascript-objects/modules/game-
 https://www.freecodecamp.org/news/javascript-create-object-how-to-define-objects-in-js/
 http://superherojs.com/
 https://css-tricks.com/converting-color-spaces-in-javascript/
+https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
