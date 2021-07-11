@@ -40,6 +40,7 @@ https://www.freecodecamp.org/news/javascript-create-object-how-to-define-objects
 http://superherojs.com/
 https://css-tricks.com/converting-color-spaces-in-javascript/
 https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F
+https://www.w3schools.com/js/js_debugging.asp
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
