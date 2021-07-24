@@ -44,7 +44,7 @@ https://www.w3schools.com/js/js_debugging.asp
 https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3
 https://www.basedesign.com/blog/how-to-render-3d-in-2d-canvas
 https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/
-
+https://www.sitepoint.com/shorthand-javascript-techniques/
 
 
 To build a website, buy a dot com domain name
