@@ -45,7 +45,8 @@ https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3
 https://www.basedesign.com/blog/how-to-render-3d-in-2d-canvas
 https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/
 https://www.sitepoint.com/shorthand-javascript-techniques/
-
+https://docs.microsoft.com/en-us/previous-versions/office/developer/office-xp/aa202943(v=office.10)?redirectedfrom=MSDN
+https://www.npmjs.com/package/node-powershell
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
