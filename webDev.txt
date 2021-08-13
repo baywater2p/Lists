@@ -47,6 +47,11 @@ https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/
 https://www.sitepoint.com/shorthand-javascript-techniques/
 https://docs.microsoft.com/en-us/previous-versions/office/developer/office-xp/aa202943(v=office.10)?redirectedfrom=MSDN
 https://www.npmjs.com/package/node-powershell
+https://emojipedia.org
+https://blog.sessionstack.com/how-javascript-works-best-practices-for-data-compliance-133edac16450
+
+
+
 
 To build a website, buy a dot com domain name
 from Google.com/domains or goDaddy or NetworkSolutions for example. 
